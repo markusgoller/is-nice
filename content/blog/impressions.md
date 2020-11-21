@@ -15,5 +15,5 @@ Below are a few photos we took during our trip in Barcelona 2017.
 
 ![Photo](/images/impressions/IMG_20171025_191624.jpg)
 
-![Photo](/images/impressions/1605210854130[2535]-2.jpg)
+![Photo](/images/impressions/K1600_1605210854130[2535]-2.jpg)
 
