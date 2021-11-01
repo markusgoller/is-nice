@@ -1,2 +1,2 @@
 # is-nice
-is-nice Blog
+[is-nice Blog](https://is-nice.at)
