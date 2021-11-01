@@ -52,5 +52,5 @@ MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
 THEME = "themes/attila"
 
 # Can set individual COVERS
-HOME_COVER = 'images/all_images/IMG_20210903_195116.jpg'
+HOME_COVER = 'images/home_cover/IMG_20210903_195116.jpg'
 #HOME_COLOR = 'gray'
