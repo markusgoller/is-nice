@@ -1,0 +1,21 @@
+# Editor
+.vscode
+
+# Environment
+.env
+
+# Pelican
+## Build Folder
+output/
+
+# Python
+__pycache__
+*.pyc 
+
+# Tests
+.bak
+
+# Drafts
+
+# all_images (original size)
+all_images/
