@@ -16,6 +16,7 @@ __pycache__
 .bak
 
 # Drafts
+drafts/
 
 # all_images (original size)
 all_images/
