@@ -13,8 +13,7 @@ Tags: Photos, Food, Beverages, Travelling
 
 ![Photo](/images/food/IMG_20220615_124910.jpg)
 
-
-![Photo](/images/food/IMG_20220615_124910.jpg)
+![Photo](/images/food/IMG_20220711_210311.jpg)
 ![Photo](/images/food/IMG_20220722_194256.jpg)
 ![Photo](/images/food/IMG_20220731_125439.jpg)
 ![Photo](/images/food/IMG_20220723_135314.jpg)
